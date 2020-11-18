@@ -1,0 +1,4 @@
+include ':databinding_adapter'
+include ':app_kotlin'
+include ':app'
+rootProject.name = "NeJetPackViewBinding"
